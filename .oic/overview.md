@@ -1,7 +1,11 @@
-A development preview for industrial visualization. Explore a synthetic process skid, a credited building capture, interactive facility and process diagrams, and simulated plant scenarios.
+Explore an automotive digital twin with robotic production cells, an aligned process atlas, equipment panels and incident replay. Move from the production floor into a credited Gaussian room capture with utility trends and simulated operating signals.
+
+The complete local development showcase now runs inside an **Ignition Perspective project**, hosted by the native Dimension Engine module. Automotive, Gaussian Studio, facility and process maps, water and steel plants, GPU experiments, and **Super Maintenance Bros.** share one application. Native HMI dashboards open within the Perspective session.
 
 ### Play Super Maintenance Bros.
 
-Run, jump and restart a procedural factory in a playable WebGPU platformer. Try a guided demo, cinematic camera and FPS counter from **Play** in the showcase menu.
+Run, jump and restart a procedural factory. Cross conveyors, power the lift and restore the line, or choose a guided run. The native project connects the game to isolated synthetic Gateway tags and an operations dashboard.
 
-The hosted preview runs in a browser with synthetic or reference data; no plant or Ignition Gateway is connected. The development application can also run through Ignition Perspective and WebDev, but a native Dimension Engine module is not available yet.
+The free hosted browser preview uses synthetic or reference data and has no plant or Gateway connection. Gallery screenshots show the native development project; the hosted preview may differ. The native module builds locally as an unsigned development installer; a signed public download is not offered yet. Ignition licensing remains separate.
+
+The engine-room capture is **Tugboat Bat, Trieste, by tosolini**, captured with XGRIDS PortalCam and used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [Original capture](https://superspl.at/scene/1a14e1e7). Equipment relationships and operating signals are authored, simulated overlays.
