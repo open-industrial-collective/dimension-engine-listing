@@ -20,7 +20,8 @@ description:
 branding:
   logo:
     on_light: ./media/logo.png
-    alt: Dimension Engine dimensional DE monogram
+    on_dark: ./media/logo.png
+    alt: Dimension Engine dimensional DE monogram in cyan and blue
 media:
   - id: factory
     type: image
